@@ -2,7 +2,7 @@
 
 > 첫 프로젝트입니다.
 
-It's a personal work to celebrate my graduation.
+This is my first project.
 
 > 출시 링크 : https://play.google.com/store/apps/details?id=com.EXPstudio.RaisingStudent
 
